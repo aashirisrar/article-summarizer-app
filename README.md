@@ -32,10 +32,6 @@ Sumz aims to streamline the consumption of information by offering users a conve
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
-## Author
-
-Your Name - [Aashir Israr](https://github.com/aashirisrar)
-
 ## Acknowledgments
 
 Special thanks to all contributors and supporters who have contributed to making Sumz a valuable tool for article summarization.
